@@ -21,4 +21,4 @@ i am kartik shah<br>i am a BCA student<br>i want to become full stack devloper <
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kartikpro9599-hash&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----[![Profile Views](https://komarev.com/ghpvc/?username=kartikpro9599-hash&color=blue)](https://github.com/kartikpro9599-hash)
+[![Profile Views](https://komarev.com/ghpvc/?username=kartikpro9599-hash&color=red)](https://github.com/kartikpro9599-hash)
