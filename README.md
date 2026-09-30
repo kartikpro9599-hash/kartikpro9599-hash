@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am kartik shah<br>i am a BCA student<br>i want to become full stack devloper <br>
+i am kartik shah<br>i am a BCA student<br>
 
 
 ## 🌐 Socials:
